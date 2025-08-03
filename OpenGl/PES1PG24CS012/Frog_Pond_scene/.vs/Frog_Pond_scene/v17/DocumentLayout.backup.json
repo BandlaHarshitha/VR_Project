@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My folder\\Harshi\\Mtech\\Sem 2\\AR VR\\ProjectSubmissions\\OpenGl\\PES1PG24CS012\\Frog_Pond_scene\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA2FB6C-4BDB-4905-AFCF-EB773A7D537A}|Frog_Pond_scene\\Frog_Pond_scene.vcxproj|D:\\My folder\\Harshi\\Mtech\\Sem 2\\AR VR\\ProjectSubmissions\\OpenGl\\PES1PG24CS012\\Frog_Pond_scene\\Frog_Pond_scene\\Frog_Pond_Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFA2FB6C-4BDB-4905-AFCF-EB773A7D537A}|Frog_Pond_scene\\Frog_Pond_scene.vcxproj|solutionrelative:Frog_Pond_scene\\Frog_Pond_Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frog_Pond_Scene.cpp",
+              "DocumentMoniker": "D:\\My folder\\Harshi\\Mtech\\Sem 2\\AR VR\\ProjectSubmissions\\OpenGl\\PES1PG24CS012\\Frog_Pond_scene\\Frog_Pond_scene\\Frog_Pond_Scene.cpp",
+              "RelativeDocumentMoniker": "Frog_Pond_scene\\Frog_Pond_Scene.cpp",
+              "ToolTip": "D:\\My folder\\Harshi\\Mtech\\Sem 2\\AR VR\\ProjectSubmissions\\OpenGl\\PES1PG24CS012\\Frog_Pond_scene\\Frog_Pond_scene\\Frog_Pond_Scene.cpp",
+              "RelativeToolTip": "Frog_Pond_scene\\Frog_Pond_Scene.cpp",
+              "ViewState": "AgIAAA8CAAAAAAAAAAAAABICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-03T13:14:40.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
